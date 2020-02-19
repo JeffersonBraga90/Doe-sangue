@@ -8,4 +8,5 @@ Aplicação desenvolvida para cadastrar pessoas que queiram doar sangue, os dado
 * Nodemon => Ferramenta que monitora os arquivos, desliga e liga o servidor automaticamente.
 * Nunjucks => Ferramenta que permite usar variáveis, funções dentro do arquivo html.
 * Pg => Ferramenta para conectar a aplicação com o banco de dados.
+* Postgres => Banco de dados.
 
